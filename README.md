@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 Bootstrap
 jQuery
 Contact
-## For any inquiries or questions, please contact @srijanani18/.
+## For any inquiries or questions, please contact srijananitj@gmail.com
