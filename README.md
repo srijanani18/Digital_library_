@@ -1,6 +1,6 @@
-# Digital Library - Online Library Management System
+# Digital Library  
 
-The Digital Library is an online library management system built using PHP and MySQL. It provides an interface for library administrators to manage books, users, and borrowing transactions efficiently. Users can search and borrow books, and administrators can track the availability and lending history of books.
+The Digital Library is an online library system built using PHP and MySQL. It provides an interface for library administrators to manage books, users, and borrowing transactions efficiently. Users can search and borrow books, and administrators can track the availability and lending history of books.
 
 ## Features
 
